@@ -108,7 +108,7 @@ body{
 }
 
 .box li.done{
-    background: rgb(12, 121, 70);
+    background: rgb(161, 161, 8);
 }
 .box li.done::after{
     content: '';
